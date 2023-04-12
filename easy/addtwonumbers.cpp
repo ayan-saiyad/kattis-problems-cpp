@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-    cout << "hello";
+    int a, b;
+    cin >> a >> b;
 
-    return 0;
+    cout << a + b;
 }
